@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjay</h1>
+<h1 align="center">Hyy!    I'm Sanjay</h1>
 
 <h3 align="center">
 Backend Developer | Node.js Engineer | MERN Stack Developer
@@ -101,6 +101,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=StarrySanjay&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
 </p>
